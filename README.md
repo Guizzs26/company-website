@@ -2,9 +2,9 @@
 
 # First HTML and CSS Landing Page
 
-The aim of this project was mainly to put flexbox and layout construction into practice. I also put into practice some transition effects, the use of pseudo-elements, pseudo-classes and element styling in general. The logo I created in Canva, the color palette I used Open Color for inspiration and the image i took from the unDrawn website. 🚀
+> The aim of this project was mainly to put flexbox and layout construction into practice. I also put into practice some transition effects, the use of pseudo-elements, pseudo-classes and element styling in general. The logo I created in Canva, the color palette I used > > Open Color for inspiration and the image i took from the unDrawn website. 🚀
 
-It's a generic landing page, don't take the content into account.
+> It's a generic landing page, don't take the content into account.
 
 ## Project image
 
@@ -12,11 +12,11 @@ It's a generic landing page, don't take the content into account.
 
 ## Learning
 
-> Creation of header and main section with flexbox (layout with flexbox)
-> Use of pseudo classes
-> Use of pseudo elements
-> Transitions and hover effect
-> Styling elements
+- Creation of header and main section with flexbox (layout with flexbox)
+- Use of pseudo classes
+- Use of pseudo elements
+- Transitions and hover effect
+- Styling elements
 
 ## Stack
 
