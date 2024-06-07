@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Page&message=HTML&color=fcba03&style=for-the-badge&logo=ghost"/><img src="https://img.shields.io/static/v1?label=Style&message=CSS&color=1572B6&style=for-the-badge&logo=css3&logoColor=white"/>
+![image](https://github.com/Guizzs26/company-website/assets/153924223/8e5cef7e-fc8e-46ef-ae80-4b601c7f3a2c)<img src="https://img.shields.io/static/v1?label=Page&message=HTML&color=fcba03&style=for-the-badge&logo=ghost"/><img src="https://img.shields.io/static/v1?label=Style&message=CSS&color=1572B6&style=for-the-badge&logo=css3&logoColor=white"/>
 
 # First HTML and CSS Landing Page
 
@@ -10,7 +10,7 @@
 
 <img src='/images/project-image.png' alt='Project Landing Page'></img>
 
-## Learning
+## Learning 🧠
 
 - Creation of header and main section with flexbox (layout with flexbox)
 - Use of pseudo classes
@@ -18,7 +18,7 @@
 - Transitions and hover effect
 - Styling elements
 
-## Stack
+## Stack 🛠️
 
 [HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
 [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS)
